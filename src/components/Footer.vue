@@ -62,7 +62,7 @@
           <p>
             
           </p>
-          <p><a href="https://github.com/rzuluaga18/semana-1-192.git">link repositorio >></a></p>
+          <p><a href="https://github.com/rzuluaga18/semana-2-192.git" target="_blank" >  link repositorio >></a></p>
     </div>
     <!-- Copyright -->
   </footer>

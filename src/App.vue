@@ -5,7 +5,7 @@
  
 
       <!-- INICIO SECCIÓN API -->
-        <div class="container-fluid mt-4">
+        <div id="news" class="container-fluid mt-4">
        
            
       <api-seccion>   </api-seccion>      
@@ -15,7 +15,7 @@
       <!-- FIN SECCIÓN API -->
 
 <!-- integrantes  -->
-    <div class="container-fluid">
+    <div id="team" class="container-fluid">
     <div class="row justify-content-center mb-5">
       <div class="col mt-5" v-for="(item,index) of team" :key="index">
         <team-card v-bind:member="item"></team-card>
@@ -26,7 +26,7 @@
 
    
    <!-- footer -->
-   <footer></footer>
+  <Footer></Footer>
     
        
     

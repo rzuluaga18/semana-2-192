@@ -31,14 +31,14 @@
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="#">Servicios</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#news">Películas</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Películas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link " href="#">Equipo</a>
+                        <a class="nav-link " href="#team">Equipo</a>
                     </li>
                 </ul>
             </div>
