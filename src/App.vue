@@ -15,6 +15,8 @@
       <!-- FIN SECCIÓN API -->
       
    
+   <!-- footer -->
+   <footer></footer>
     
        
     
@@ -25,6 +27,7 @@
 
 <script>
 import ApiSeccion from './components/ApiSeccion.vue'
+import Footer from './components/Footer.vue'
 
 
 
@@ -32,9 +35,11 @@ export default {
   name: 'App',
   
   components: { 
-    ApiSeccion 
+    ApiSeccion,
+    Footer 
     },
-  
+
+      
 
   data(){
     return{
