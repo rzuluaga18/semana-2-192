@@ -3,7 +3,7 @@
 <div>
   <footer class="page-footer bg-secondary text-white pt-4">
     <!-- Footer Text -->
-    <div class="container-fluid text-center text-md-left">
+    <div class="container-fluid text-center text-md-center">
       <!-- Grid row -->
       <div class="row">
         <!-- Grid column -->
@@ -17,7 +17,7 @@
                 <p>
                 
             <!-- <strong>Rol:</strong> Frontend y Tester. -->
-            <br>
+            <!-- <br> -->
             <strong>Contacto:</strong> angiesofia98@hotmail.com 
               </p>
         </div>
@@ -27,7 +27,7 @@
                 <p>
             
               <!-- <strong>Rol:</strong> Analista de Software y Backend. -->
-              <br>
+              <!-- <br> -->
               <strong>Contacto:</strong> lcarrietas@unal.edu.co 
               </p>
         </div>
@@ -37,7 +37,7 @@
                 <p>
                 
             <!-- <strong>Rol:</strong> Arquitecto de Software y Frontend. -->
-            <br>
+            <!-- <br> -->
             <strong>Contacto:</strong> jrzp18@gmail.com
               </p>
         </div>
@@ -47,7 +47,7 @@
                 <p>            
                 
             <!-- <strong>Rol:</strong> Backend. -->
-            <br>
+            <!-- <br> -->
             <strong>Contacto:</strong> cristiambus@gmail.com
               </p>
         </div>
@@ -59,10 +59,8 @@
     <!-- Copyright -->
     <div class="footer-copyright text-center py-1 bg-dark">
                 <h5 class="text-uppercase font-weight-bold">Reto de la semana 1 </h5>
-          <p>
-            
-          </p>
-          <p><a href="https://github.com/rzuluaga18/semana-2-192.git" target="_blank" >  link repositorio >></a></p>
+          <img src="https://www.utp.edu.co/assets/img/escudos/marca_UTP.png" alt="logo UTP">
+          <p> <a href="https://github.com/rzuluaga18/semana-2-192.git" class="btn btn-success mt-2" target="_blank">Enlace al Repositorio del Grupo </a> </p>
     </div>
     <!-- Copyright -->
   </footer>
