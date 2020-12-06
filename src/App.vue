@@ -1,7 +1,7 @@
 <template>
 
   <div id="app">
-    
+    <banner-header></banner-header>
  
 
       <!-- INICIO SECCIÓN API -->
@@ -37,6 +37,7 @@
 
 <script>
 import ApiSeccion from './components/ApiSeccion.vue'
+import BannerHeader from './components/BannerHeader.vue'
 import Footer from './components/Footer.vue'
 import TeamCard from './components/TeamCard.vue'
 
@@ -48,7 +49,9 @@ export default {
   components: { 
     ApiSeccion,
     Footer,
-    TeamCard 
+    TeamCard, 
+    BannerHeader, 
+
     },
 
       
