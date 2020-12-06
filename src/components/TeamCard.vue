@@ -2,11 +2,13 @@
     
       <div class="card text-white bg-dark">
         <div class="d-flex justify-content-center p-2">
-        <img :src="member.Imagen" alt="Foto del Integrante">
+        <img :src="member.image" alt="Foto del Integrante">
         </div>
         <div class="card-body">
-          <h5 class="card-title"> {{member.Nombre}}</h5>
-          <p class="card-text">   {{member.Descripcion}} </p>
+          <h5 class="card-title"> {{member.nombre}}</h5>
+          <p class="card-text">   {{member.rol}} </p>
+          <p class="card-text">   {{member.descripcion}} </p>
+          <h5 class="card-text">  {{ member.codigo }}</h5>
           
         </div>
         <div class="card-footer">
