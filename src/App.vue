@@ -82,7 +82,7 @@ export default {
             },
             {codigo: 4,
             nombre: 'Cristiam David Bustos Fuentes',
-            descripcion: 'Estudiante de Ingeniería Industrial en la Universidad Del Norte, 21 años. Pasatiempo es jugar videojuegos y leer.',
+            descripcion: 'Estudiante de Ingeniería Industrial en la Universidad Del Norte, 21 años. Pasatiempo, jugar videojuegos y leer.',
             rol: 'Backend',
             image: require('./assets/Cristiam.jpeg'),
             }

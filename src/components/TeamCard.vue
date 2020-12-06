@@ -6,8 +6,8 @@
         </div>
         <div class="card-body">
           <h5 class="card-title"> {{member.nombre}}</h5>
-          <p class="card-text">   {{member.rol}} </p>
           <p class="card-text">   {{member.descripcion}} </p>
+          <h5 class="card-text">   {{member.rol}} </h5>
           <h5 class="card-text">  {{ member.codigo }}</h5>
           
         </div>
