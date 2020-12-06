@@ -29,16 +29,18 @@
             src="https://www.xtrafondos.com/descargar.php?id=5006&resolucion=3840x2160"
             class="img-fluid d-block w-100"
             alt="wonder woman 1984"
+            
           />
           <div class="carousel-caption d-none d-md-block">
             <h2>WONDER WOMAN 1984</h2>
             <p>Estreno: 18 de diciembre de 2020</p>
 
             <a
-              href="http://www.sensacine.com/peliculas/pelicula-256588/"
+              href="http://www.sensacine.com/peliculas/pelicula-256588/ "
               class="btn btn-secondary"
               role="button"
               aria-pressed="true"
+              target="_blank"
             >
               <svg
                 width="1em"
@@ -47,6 +49,7 @@
                 class="bi bi-info-circle"
                 fill="currentColor"
                 xmlns="http://www.w3.org/2000/svg"
+                
               >
                 <path
                   fill-rule="evenodd"
@@ -75,6 +78,7 @@
               class="btn btn-secondary"
               role="button"
               aria-pressed="true"
+              target="_blank"
             >
               <svg
                 width="1em"
@@ -112,6 +116,7 @@
               class="btn btn-secondary"
               role="button"
               aria-pressed="true"
+              target="_blank"
             >
               <svg
                 width="1em"
